@@ -14,3 +14,5 @@ debe estimar cuántas veces puede correr en 5 horas y hacer el experimento nueva
 3. Talleres 0, 1, 2, 3
 
 4. Pantallazo del punto extracrédito https://www.hackerrank.com/contests/cleverly-hidden-floyd-warshall/challenges/30-pointer
+
+5. Pantallazos del desarrollo de los cursos de Udacity y Coursera
