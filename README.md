@@ -9,8 +9,8 @@ teórico, calcule la probabilidad que toma de 1.5 veces más que el promedio te�
 (necesita modificar el tiempo para no almacenar cada ejecución). Con el tiempo medido, 
 debe estimar cuántas veces puede correr en 5 horas y hacer el experimento nuevamente.
 
-2. Talleres 
+2. Pantallazos de desarrollo del parcial final práctico https://www.hackerrank.com/contests/unal-algorithms-final-2018-i-gr-1-and-gr2/challenges 
 
-3. Pantallazos de desarrollo del parcial final práctico https://www.hackerrank.com/contests/unal-algorithms-final-2018-i-gr-1-and-gr2/challenges
+3. Talleres 0, 1, 2, 3
 
 4. Pantallazo del punto extracrédito https://www.hackerrank.com/contests/cleverly-hidden-floyd-warshall/challenges/30-pointer
